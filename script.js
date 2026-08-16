@@ -4,6 +4,11 @@ const I18N = {
     menuHome: "Home",
     menuAbout: "About",
     menuProjects: "Projects",
+    menuContact: "How to reach me",
+    contactTitle: "How to reach me",
+    contactTg: "Telegram",
+    contactGh: "GitHub",
+    contactEmail: "Email",
     introLabel: "Python Developer — Portfolio 2026",
     introSub:
       "I build Telegram bots for different niches, web parsers, and AI assistants powered by APIs. I automate routine tasks and turn ideas into working products.",
@@ -30,6 +35,11 @@ const I18N = {
     menuHome: "Главная",
     menuAbout: "Обо мне",
     menuProjects: "Проекты",
+    menuContact: "Как со мной связаться",
+    contactTitle: "Как со мной связаться",
+    contactTg: "Телеграм",
+    contactGh: "GitHub",
+    contactEmail: "Почта",
     introLabel: "Python-разработчик — Портфолио 2026",
     introSub:
       "Я создаю Telegram-ботов для разных ниш, парсеры и AI-ассистентов на основе API. Автоматизирую рутину и превращаю идеи в рабочие продукты.",
