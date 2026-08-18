@@ -74,6 +74,15 @@ const projects = [
     stars: 0,
     forks: 0,
   },
+  {
+    name: "resume-creator",
+    url: "https://github.com/yavkhr/resume-creator",
+    desc: "Resume builder with interview",
+    descRu: "Резюме-создатель с интервью",
+    lang: "Python",
+    stars: 0,
+    forks: 0,
+  },
 ];
 
 const scroller = document.querySelector(".scroller");
