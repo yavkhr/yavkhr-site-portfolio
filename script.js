@@ -83,6 +83,15 @@ const projects = [
     stars: 0,
     forks: 0,
   },
+  {
+    name: "telegramm-weather-app",
+    url: "https://github.com/yavkhr/telegramm-weather-app",
+    desc: "My telegramm weather bot for finding information abou weather",
+    descRu: "Мой телеграмм бот который показывает погоду в любом месте",
+    lang: "Python",
+    stars: 0,
+    forks: 0,
+  },
 ];
 
 const scroller = document.querySelector(".scroller");
