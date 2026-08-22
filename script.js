@@ -15,7 +15,7 @@ const I18N = {
     aboutTitle: "About me",
     aboutP1: "Hello! My name is Peter Obod.",
     aboutP2:
-      "I am a Python developer from Ukraine. My dream is to become an AI engineer.",
+      "I am a Python developer from Ukraine.",
     aboutP3:
       "I build simple and useful software that helps people, and I work on improving my skills every day.",
     aboutDoTitle: "What I do",
@@ -46,7 +46,7 @@ const I18N = {
     aboutTitle: "Обо мне",
     aboutP1: "Привет! Меня зовут Пётр Обод.",
     aboutP2:
-      "Я Python-разработчик из Украины. Моя мечта — стать AI-инженером.",
+      "Я Python-разработчик из Украины.",
     aboutP3:
       "Я создаю простой и полезный софт, который помогает людям, и каждый день улучшаю свои навыки.",
     aboutDoTitle: "Чем я занимаюсь",
