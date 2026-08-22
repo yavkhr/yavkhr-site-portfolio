@@ -65,7 +65,7 @@ const I18N = {
 
 const projects = [
   {
-    name: "telegramm-ai-assistant",
+    name: "Telegram Ai Assistant",
     url: "https://github.com/yavkhr/telegramm-ai-assistant",
     desc: "A smart Telegram bot that talks, listens and reads text from images. Built with Python and DeepSeek.",
     descRu:
@@ -75,7 +75,7 @@ const projects = [
     forks: 0,
   },
   {
-    name: "resume-creator",
+    name: "Resume creator",
     url: "https://github.com/yavkhr/resume-creator",
     desc: "Resume builder with interview",
     descRu: "Резюме-создатель с интервью",
@@ -84,10 +84,19 @@ const projects = [
     forks: 0,
   },
   {
-    name: "telegramm-weather-app",
+    name: "Telegramm weather app",
     url: "https://github.com/yavkhr/telegramm-weather-app",
     desc: "My telegramm weather bot for finding information abou weather",
     descRu: "Мой телеграмм бот который показывает погоду в любом месте",
+    lang: "Python",
+    stars: 0,
+    forks: 0,
+  },
+  {
+    name: "Telegramm expense tracker",
+    url: "https://github.com/yavkhr/tg-expense_tracker",
+    desc: "Telegram expense tracker with database, logging, counting your money, filtering for date",
+    descRu: "Telegram-бот для учета расходов с базой данных, ведением логов, подсчетом средств и фильтрацией по дате.",
     lang: "Python",
     stars: 0,
     forks: 0,
